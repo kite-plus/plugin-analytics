@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Analytics">
+  <title>Analytics</title>
+  <g fill="#4A77D6" stroke="#4A77D6" stroke-width="5" stroke-linejoin="round"
+     transform="translate(32 32) scale(0.82) translate(-32 -32)">
+    <path d="M12 36 L21 36 L21 51 L12 51 Z"/>
+    <path d="M27.5 25 L36.5 25 L36.5 51 L27.5 51 Z"/>
+    <path d="M43 13 L52 13 L52 51 L43 51 Z"/>
+  </g>
+</svg>
